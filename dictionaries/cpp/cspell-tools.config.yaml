@@ -35,6 +35,7 @@ targets:
     targetDirectory: './dict'
     generateNonStrict: false
     compress: false
+    # removeDuplicates: true
     sort: true
 
   - name: cpp-refined
